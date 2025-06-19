@@ -1,5 +1,9 @@
 # Automation-2025-BIM360-DOC-Selected-Name-and-Link-to-CSV-Solution
 
+## Author
+
+Andy Zhu
+
 ## Overview
 
 This script automates the extraction of document names and their corresponding share links from the BIM 360 Docs web interface. It collects the names and links displayed in the share modal and exports them as a CSV file for easy reference and sharing.
