@@ -1,8 +1,6 @@
-# Automation-2025-BIM360-DOC-Selected-Name-and-Link-to-CSV-Solution
+# BIM360 DOC - Selected Name and Link to CSV Solution
 
-## Author
-
-Andy Zhu
+![image](https://github.com/HKIBIMTechnical/Automation-2025-BIM360-DOC-Selected-Name-and-Link-to-CSV-Solution/blob/main/image.png)
 
 ## Overview
 
